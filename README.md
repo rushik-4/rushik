@@ -3,9 +3,9 @@ Welcome to my repository This repository serves as a collection of my coursework
 
 ## Folder Structure
 
-- **`datasets/`**: Raw datasets, including CSVs, Excel files, and other data used in assignments.
-- **`notebooks/`**: Jupyter notebooks or R scripts that demonstrate data analysis and processing.
-- **`projects/`**: Completed projects, including assignments, case studies, or capstone projects.
+- **`datasets/`**: 
+- **`notebooks/`**: 
+- **`projects/`**: git clone https://app.powerbi.com/reportEmbed?reportId=107eb3c5-e133-483a-88a9-5ab6be23043e&autoAuth=true&ctid=8a6b0aff-8a0c-41ad-90d8-9bef54eac788
 - **`visualizations/`**: Graphs, charts, and other visualizations created during analysis.
 - **`reports/`**: Written reports or presentations summarizing key findings and insights.
 - **`notes/`**: Study notes and resources to supplement my learning.
