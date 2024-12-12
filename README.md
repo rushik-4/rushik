@@ -5,7 +5,7 @@ Welcome to my repository This repository serves as a collection of my coursework
 
 - **`datasets/`**: 
 - **`notebooks/`**: 
-- **`projects/`**: git clone https://app.powerbi.com/reportEmbed?reportId=107eb3c5-e133-483a-88a9-5ab6be23043e&autoAuth=true&ctid=8a6b0aff-8a0c-41ad-90d8-9bef54eac788
+- **`projects/`**: **`git clone/`** https://app.powerbi.com/reportEmbed?reportId=107eb3c5-e133-483a-88a9-5ab6be23043e&autoAuth=true&ctid=8a6b0aff-8a0c-41ad-90d8-9bef54eac788
 - **`visualizations/`**: Graphs, charts, and other visualizations created during analysis.
 - **`reports/`**: Written reports or presentations summarizing key findings and insights.
 - **`notes/`**: Study notes and resources to supplement my learning.
