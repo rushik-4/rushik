@@ -8,7 +8,7 @@ Welcome to my repository This repository serves as a collection of my coursework
 ## Tools and Technologies
 
 - **Programming Languages**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, SQL
 - **Software**: Excel, Power bi
 - **Other**: Jupyter Notebooks, Git, GitHub
 
